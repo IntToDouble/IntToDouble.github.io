@@ -1,2 +1,2 @@
-IntToDouble.github.io
+IntToDouble
 =====================
